@@ -1,0 +1,12 @@
+{
+  "name": "to-be-read-app",
+  "version": "0.0.1",
+  "description": "An app to display book reading lists for yourself and other users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Harry Ingles <wazzleweb@gmail.com>",
+  "license": "UNLICENSED"
+}
